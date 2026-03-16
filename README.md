@@ -16,6 +16,8 @@
 (32) texture_weight=0.2   
 (438) Data base path: dataset_folder = "./images"
 (444) Image subset number: max_images=10000
+(453) Select query image: query_idx
+(453) select top-k similar images
 
 
 
